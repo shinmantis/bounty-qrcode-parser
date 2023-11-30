@@ -19,24 +19,25 @@ https://qrcode-parser.netlify.app/
 
 <br /><br />
 
-## Helpful Tools
+## Helpful Testing Tools
 
-### Create Random JSON Data Here:
+#### Create Random JSON Data Here:
 https://json-generator.com/
 <br />
 
-### Convert it to a QRCode here (Use Correction Level Q or Higher)
+#### Convert it to a QRCode here (Use Correction Level Q or Higher)
 https://www.easyproject.cn/easyqrcodejs/tryit.html
 <br />
 
-### Take the Image and covert it to a Base64 String here
+#### Take the Image and covert it to a Base64 String here
 https://www.base64-image.de/
 
 __or__
 
 https://base64.guru/converter/encode/image
 <br />
-### Feed the base64 string into qrcode-parser
+
+#### Feed the base64 string into qrcode-parser
 
 https://qrcode-parser.netlify.app/
 
