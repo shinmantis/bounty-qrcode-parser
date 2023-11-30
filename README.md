@@ -12,10 +12,35 @@ This repository is offering a bounty for anyone who can convert the "qrcode-pars
 https://www.npmjs.com/package/qrcode-parser
 
 https://github.com/sinchang/qrcode-parser#readme
-
+<br /><br />
 
 ## Live example
 https://qrcode-parser.netlify.app/
+
+<br />
+
+## Helpful Tools
+
+### Create Random JSON Data Here:
+https://json-generator.com/
+<br />
+
+### Convert it to a QRCode here (Use Correction Level Q or Higher)
+https://www.easyproject.cn/easyqrcodejs/tryit.html
+<br />
+
+### Take the Image and covert it to a Base64 String here
+https://www.base64-image.de/
+
+__or__
+
+https://base64.guru/converter/encode/image
+<br />
+### Feed the base64 string into qrcode-parser
+
+https://qrcode-parser.netlify.app/
+
+<br /><br />
 
 
 ## Requirements
