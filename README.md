@@ -81,7 +81,7 @@ qrcodeParser(arg).then(result => {
 });
 ```
 
-<br /><br />If you decide to undertake this bounty please place the project in a directory named ```bounty-qrcode-parser```.  Upon completion, please zip the bounty project and include __all necessary files and step by step instructions__ for __creating the executable__ so that it can be tested.
+<br /><br />If you decide to undertake this bounty please place the project in a directory named ```bounty-qrcode-parser```.  Upon completion, please zip the bounty project and include __all necessary source files and step by step instructions__ for __creating the executable__ so that it can be tested.
 Once the work has been validated I will submit payment.<br /><br />
 
 If you have any questions please feel free to contact me at mobilecontrolsoft@gmail.com
