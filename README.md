@@ -61,7 +61,7 @@ C:\bounty-qrcode-parser>qrcode-parser.exe <base64 String>
 Error: Unable to parse argument
 ```
 
-<br /><br /> The following QR Code Base64 string can be used for testing purposes <br /><br />
+<br /><br /> The following QR Code Base64 string can also be used for testing purposes <br /><br />
 
 
 __hello world!__ 
