@@ -1,11 +1,11 @@
 # bounty-qrcode-parser
 
 A software bounty to convert the node module "qrcode-parser" into an windows native executable
-
+<br /><br />
 
 ## Details
 This repository is offering a bounty for anyone who can convert the "qrcode-parser" module/source code into an __windows executable__ using __pkg__, __nexe__, or __electron-builder__.
-
+<br /><br />
 
 ## Required source files (qrcode-parser)
 
@@ -17,7 +17,7 @@ https://github.com/sinchang/qrcode-parser#readme
 ## Live example
 https://qrcode-parser.netlify.app/
 
-<br />
+<br /><br />
 
 ## Helpful Tools
 
