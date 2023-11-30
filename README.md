@@ -86,6 +86,6 @@ Once the work has been validated I will submit payment.<br /><br />
 
 If you have any questions please feel free to contact me at mobilecontrolsoft@gmail.com
 
-# Bounty Payment:  __$75.00__ <br /><br />
+# Bounty Payment:  __$90.00__ <br /><br />
  <br /><br />
  <br /><br />
